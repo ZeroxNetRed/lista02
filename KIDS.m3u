@@ -1,41 +1,60 @@
-# ListaKids
-#EXTINF:-1 ,ARGENTINA | PAKA PAKA
-http://soberon.us:25461/m0nk/n3w/3221
-#EXTINF:-1 ,LATINO | BABY FIRTS
-http://soberon.us:25461/m0nk/n3w/899
-#EXTINF:-1 ,LATINO | BABY TV
-http://soberon.us:25461/m0nk/n3w/2938
-#EXTINF:-1 ,Latino | Boomerang
-http://soberon.us:25461/m0nk/n3w/58
-#EXTINF:-1 ,Latino | Cartoon Network
-http://soberon.us:25461/m0nk/n3w/63
-#EXTINF:-1 ,Latino | Discovery Kids
-http://soberon.us:25461/m0nk/n3w/76
-#EXTINF:-1 ,Latino | Disney Channel
-http://soberon.us:25461/m0nk/n3w/82
-#EXTINF:-1 ,Latino | Disney Jr
-http://soberon.us:25461/m0nk/n3w/83
-#EXTINF:-1  tvg-logo="https://i.imgur.com/RQa2ipx.png",Latino | HBO Family
-http://soberon.us:25461/m0nk/n3w/120
-#EXTINF:-1 ,Latino | Nick Jr
-http://soberon.us:25461/m0nk/n3w/137
-#EXTINF:-1 ,LATINO | NICKELODEON
-http://soberon.us:25461/m0nk/n3w/765
-#EXTINF:-1 ,Latino | Nicktoons
-http://soberon.us:25461/m0nk/n3w/138
-#EXTINF:-1 ,LATINO FHD : HBO FAMILY
-http://soberon.us:25461/m0nk/n3w/3147
-#EXTINF:-1 ,PERU | CANAL IPE
-http://soberon.us:25461/m0nk/n3w/470
-#EXTINF:-1,24/7 : Cine PopCorn Looney T.
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Pakapaka.png",ARG: Pakapaka HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26949.ts
+#EXTINF:-1,PE : IPE TV
 #EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/107.ts
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/565.ts
+#EXTINF:-1,LAT : HBO Family HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
 #EXTINF:-1,24/7 : La Casa de Mickey Mouse HD
 #EXTVLCOPT:http-user-agent=R3dHard3.1XzY
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/114.ts
+#EXTINF:-1,24/7 : Looney Toons V1
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/138.ts
+#EXTINF:-1,24/7 : Los Picapiedras
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
+#EXTINF:-1,LAT : Baby First HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
+
+#EXTINF:-1,LAT : Baby TV HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
+#EXTINF:-1,LAT : Cartoon Newtwork HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
 #EXTINF:-1,LAT : Discovery Kids HD
 #EXTVLCOPT:http-user-agent=R3dHard3.1XzY
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
+#EXTINF:-1,LAT : Disney Junior HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
 #EXTINF:-1,LAT : Disney XD HD
 #EXTVLCOPT:http-user-agent=R3dHard3.1XzY
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
+#EXTINF:-1,LAT : Nick Jr. HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts#EXTINF:-1,LAT : Nickelodeon HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
+
+#EXTINF:-1,LAT : Nicktoon HD
+#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/383.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Autobus Magico
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24437.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 El Narrador de Cuentos
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25133.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 El Narrador de Cuentos HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/113786.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 El Super Libro
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/27257.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 El Super Libro 3D
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/160623.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Fabulas de Esopo
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24627.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Historias de la Biblia
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/101943.ts
+
