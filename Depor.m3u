@@ -1,73 +1,50 @@
-# lista02
-#EXTINF:-1 ,PERU | Direc tv Sports
-http://soberon.us:25461/m0nk/n3w/3219
-#EXTINF:-1 ,PERU | GOL PERU
-http://soberon.us:25461/m0nk/n3w/463
-#EXTINF:-1 ,PERU | LATINA
-http://soberon.us:25461/m0nk/n3w/461
-#EXTINF:-1 ,PERU | LIGA 1 MX
-http://soberon.us:25461/m0nk/n3w/4208
-#EXTINF:-1 ,PERU | LIGA 1 MX 2
-http://soberon.us:25461/m0nk/n3w/4209
-#EXTINF:-1 ,PERU | MOVISTAR DEPORTES
-http://soberon.us:25461/m0nk/n3w/464
-#EXTINF:-1 ,AR | beIN Sports 3
-http://soberon.us:25461/m0nk/n3w/3495
-#EXTINF:-1 ,AR | beIN Sports 6
-http://soberon.us:25461/m0nk/n3w/3498
-#EXTINF:-1 ,ARG DEP | ESPN
-http://soberon.us:25461/m0nk/n3w/3978
-#EXTINF:-1 ,ARG DEP | ESPN 1 HD
-http://soberon.us:25461/m0nk/n3w/3979
-#EXTINF:-1 ,ARG DEP | ESPN 2
-http://soberon.us:25461/m0nk/n3w/3980
-#EXTINF:-1 ,ARG DEP | ESPN 3
-http://soberon.us:25461/m0nk/n3w/3981
-#EXTINF:-1 ,ARG DEP | ESPN PLUS
-http://soberon.us:25461/m0nk/n3w/3982
-#EXTINF:-1 ,ARG DEP | FOX SPORTS  1 SD
-http://soberon.us:25461/m0nk/n3w/3983
-#EXTINF:-1 ,ARG DEP | FOX SPORTS  2
-http://soberon.us:25461/m0nk/n3w/3984
-#EXTINF:-1 ,ARG DEP | FOX SPORTS  3
-http://soberon.us:25461/m0nk/n3w/3985
-#EXTINF:-1 ,ARG DEP | FOX SPORTS 1
-http://soberon.us:25461/m0nk/n3w/3986
-#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM FHD
-http://soberon.us:25461/m0nk/n3w/3987
-#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM HD
-http://soberon.us:25461/m0nk/n3w/3988
-#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM SD
-http://soberon.us:25461/m0nk/n3w/3989
-#EXTINF:-1 ,ARGENTINA | ESPN 2
-http://soberon.us:25461/m0nk/n3w/3035
-#EXTINF:-1 ,ARGENTINA | ESPN 3
-http://soberon.us:25461/m0nk/n3w/3036
-#EXTINF:-1 ,ARGENTINA | ESPN 4
-http://soberon.us:25461/m0nk/n3w/3037
-#EXTINF:-1 ,ARGENTINA | FENIX TV
-http://soberon.us:25461/m0nk/n3w/3004
-#EXTINF:-1 ,ARGENTINA | Fox sports 1
-http://soberon.us:25461/m0nk/n3w/3038
-#EXTINF:-1 ,ARGENTINA | Fox Sports 2
-http://soberon.us:25461/m0nk/n3w/3039
-#EXTINF:-1 ,ARGENTINA | Fox Sports 3
-http://soberon.us:25461/m0nk/n3w/3040
-#EXTINF:-1 ,ARGENTINA | FOX SPORTS PREMIUN
-http://soberon.us:25461/m0nk/n3w/552
-#EXTINF:-1 ,LATINO | DIREC TV PLUS
-http://soberon.us:25461/m0nk/n3w/1046
-#EXTINF:-1 ,LATINO | DIRECTV SPORTS 2
-http://soberon.us:25461/m0nk/n3w/1048
-#EXTINF:-1 ,Latino | ESPN 3
-http://soberon.us:25461/m0nk/n3w/91
-#EXTINF:-1 ,Latino | ESPN Deportes
-http://soberon.us:25461/m0nk/n3w/92
-#EXTINF:-1 ,Latino | FOX
-http://soberon.us:25461/m0nk/n3w/97
-#EXTINF:-1 ,Latino | FOX Sports
-http://soberon.us:25461/m0nk/n3w/105
-#EXTINF:-1 ,Latino | FOX Sports 2
-http://soberon.us:25461/m0nk/n3w/106
-#EXTINF:-1 ,Latino | FOX Sports 3
-http://soberon.us:25461/m0nk/n3w/107
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",SP: PE: Directv Sports 2
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300842.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png",SP: PE: Directv Sports HD+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300839.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",SP: PE: ESPN
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/302520.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",SP: PE: ESPN 2
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/228710.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",SP: PE: Gol Peru FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233888.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",SP: PE: Gol Peru HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/286.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",SP: PE: Gol TV Peru HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26946.ts
+#EXTINF:-1 ,SP: PE: Liga 1 Max HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
+#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png",SP: PE: Movistar Deportes FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/228733.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/b4fa2675c20e632299577e2a7e5dc184.png",SP: ARG: Directv Sports + HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/103065.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/2ea156dba5886e33c0a461a41cb86c28.png",SP: ARG: Directv Sports 1 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26524.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/dd9218fd8294a7dcc2f40a15eccfff7e.png",SP: ARG: Directv Sports 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/103064.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/4b91b95e2dde6009b81b5066503793b3.png",SP: ARG: ESPN 1 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115725.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/3c93fb744bcc922a140725b2bac6df0a.png",SP: ARG: ESPN 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31814.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png",SP: ARG: ESPN 3 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31815.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",SP: ARG: ESPN 4
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/305906.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",SP: ARG: ESPN 4 SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/308136.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.vip/logos/Argentina_deportes/Espn_extra.png",SP: ARG: ESPN Extra FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31810.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",SP: ARG: ESPN Premium FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/69258.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",SP: ARG: ESPN Premium HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32331.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",SP: ARG: ESPN Premium SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233836.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/140dd0e0875d9960b3347d7894d5f38e.png",SP: ARG: Fox Sports 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26533.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.vip/logos/Argentina_deportes/FOX_Sports.png",SP: ARG: Fox Sports HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26531.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",SP: ARG: TNT Sports HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26530.ts
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",SP: ARG: TNT Sports SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233835.ts
