@@ -109,21 +109,3 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/792.ts
 #EXTINF:-1 ,Directv Sports+
 #EXTVLCOPT:http-user-agent=R3dHard3.1XzY
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/793.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",SP: PE: Directv Sports 2
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300842.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png",SP: PE: Directv Sports HD+
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300839.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",SP: PE: ESPN
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/302520.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",SP: PE: ESPN 2
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/228710.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",SP: PE: Gol Peru FHD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233888.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",SP: PE: Gol Peru HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/286.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",SP: PE: Gol TV Peru HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26946.ts
-#EXTINF:-1 ,SP: PE: Liga 1 Max HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
-#EXTINF:-1 group-title="LAT - Peru Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png",SP: PE: Movistar Deportes FHD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/228733.ts
