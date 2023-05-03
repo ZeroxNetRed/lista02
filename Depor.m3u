@@ -1,115 +1,88 @@
-#EXTINF:-1 ,Gol Peru
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/816.ts
-#EXTINF:-1 ,Movistar Deportes
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/817.ts
+#EXTINF:-1 group-title="DEPORTES",movistar deportes
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/203
+#EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4322
+#EXTINF:-1 group-title="PERU",MOVISTAR PLUS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
 #EXTINF:-1 group-title="PERU" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCIZWJcy8OoB5O3vMDtkkf-BPGQTp9CRBkI6VSbdQ-_PICObmvVZ8Xpnowe-0HWMr_YJca00TQDLtpETSgj05IrQKWExA66SpNJQIRS57uFC5KQSrO3Fi95Wb86Uyi5p36IlXVR2f_6odaD4NwA3dMHTCR5UIcSPsPAiQBWdPgc-0JX5e5qHG6S9xi/w200-h200/proyectox4%20(10).png",PER- Liga 1 MAX (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/176688
 #EXTINF:-1 group-title="PERU" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdn5Gm_9A792eZ7qfiQ-KFpqkLe2ZOFFSZ3q2IbZiLCWkxdhIJ-aIr3twTPg10hpqOK7coVIcZBGZSg_vAeYe2A-hJSFbIbThnLbpRzzEfGdohguD1s3WG1ECHzCwReVCuj-p_uXmdNoNB0L0qdYqOGT9h4phMWqpIbsLPIqJyKXkk3M76TfPiyX37/w200-h200/proyectox4%20(11).png",PER- Liga 1 MAX OP2 (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/216591
-#EXTINF:-1 ,Espn 1
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
-#EXTINF:-1 ,Espn 1 MX
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/780.ts
-#EXTINF:-1 ,Espn 2
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
-#EXTINF:-1 ,Espn 2 MX
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/796.ts
-#EXTINF:-1 ,Espn 3
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
-#EXTINF:-1 ,Espn 3 MX
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/797.ts
-#EXTINF:-1 ,Espn Brasil
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/809.ts
-#EXTINF:-1 ,Espn Premium
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
-#EXTINF:-1 ,Eurosports 1
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/825.ts
-#EXTINF:-1 ,Eurosports 2
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/826.ts
-#EXTINF:-1 ,Fox Sports 1
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/750.ts
-#EXTINF:-1 ,Fox Sports 1 Brasil
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/810.ts
-#EXTINF:-1 ,Fox Sports 1 MX
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/799.ts
-#EXTINF:-1 ,Fox Sports 2
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/716.ts
-#EXTINF:-1 ,Fox Sports 2 Brasil
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/142.ts
-#EXTINF:-1 ,Fox Sports 2 MX
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/800.ts
-#EXTINF:-1 ,Fox Sports 3
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/717.ts
-#EXTINF:-1 ,Fox Sports 3 MX
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/801.ts
-#EXTINF:-1 ,Fox Sports Premium
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
-#EXTINF:-1 ,NFL
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/749.ts
-#EXTINF:-1 ,Real Madrid
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/828.ts
-#EXTINF:-1 ,Teledeporte
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/824.ts
-#EXTINF:-1 ,Tigo Sports
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/814.ts
-#EXTINF:-1 ,Tigo Sports CR
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/819.ts
-#EXTINF:-1 ,TNT Sports
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/813.ts
-#EXTINF:-1 ,TNT Sports CH
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/820.ts
-#EXTINF:-1 ,TUDN
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
-#EXTINF:-1 ,TyC Sports
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
-#EXTINF:-1 ,Win Sports
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/790.ts
-#EXTINF:-1 ,Win Sports+
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/789.ts
-#EXTINF:-1 ,Directv 1 EC
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1032.ts
-#EXTINF:-1 ,Directv 2 EC
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/850.ts
-#EXTINF:-1 ,Directv Sports 1
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/791.ts
-#EXTINF:-1 ,Directv Sports 2
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/792.ts
-#EXTINF:-1 ,Directv Sports+
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/793.ts
+#EXTINF:-1 group-title="DEPORTES",Gol Peru
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/170
+#EXTINF:-1 group-title="DEPORTES",Gol Peru HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4315
+#EXTINF:-1 group-title="DEPORTES",Gol TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3936
+#EXTINF:-1 group-title="DEPORTES",Gol TV HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4316
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/RVjPPyRz/CDF-HD.jpg",CDF HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/2
+#EXTINF:-1 group-title="DEPORTES",CDO basico
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/154
+#EXTINF:-1 group-title="DEPORTES",CDO premium
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/155
+#EXTINF:-1 group-title="DEPORTES",DTV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3925
+#EXTINF:-1 group-title="DEPORTES",ECDF El canal del futbol
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/164
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg",ESPN
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/19
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg",ESPN 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/20
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg",ESPN 2 CO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/21
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg",ESPN 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/22
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+#EXTINF:-1 group-title="DEPORTES",ESPN CO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4341
+#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
+#EXTINF:-1 group-title="DEPORTES",ESPN op2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/204
+#EXTINF:-1 group-title="DEPORTES",ESPN op3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4265
+#EXTINF:-1 group-title="DEPORTES",EVENTOS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4195
+#EXTINF:-1 group-title="DEPORTES",Fox sports
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/207
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/wjfc9WTX/FOX-SPORTS-3.jpg",Fox Sports 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/23
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
+#EXTINF:-1 group-title="DEPORTES",Golf Channel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/66
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MT4FX66Y/CDF-PREMIUM.jpg",TNT Sports 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
+#EXTINF:-1 group-title="DEPORTES",TNT Sports 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
+#EXTINF:-1 group-title="DEPORTES",TYC Sports
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/907c1rQm/WIN-SPORTS.jpg",Win
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
+#EXTINF:-1 group-title="DEPORTES",Win Sports +
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3926
+#EXTINF:-1 group-title="DEPORTES",Win Sports+
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4309
+#EXTINF:-1 group-title="DEPORTES",Win Sports+ HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4330
