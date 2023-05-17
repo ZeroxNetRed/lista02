@@ -1,60 +1,232 @@
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/186
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Peliculas",Cine 2020
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/857
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/699
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Peliculas",Cine Accion Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/700
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Peliculas",Cine Comedia 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/695
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Peliculas",Cine Comedia 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/696
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/709
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/710
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/711
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",Cine Infantil
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/687
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Peliculas",Cine Infantil Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/694
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/295
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Peliculas",Cine Marvel
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/697
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas",Cine Romance
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas",Cine Terror
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/688
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/18
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/738
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/20
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/739
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/0cd119831354bed3dfa0c1be6e4d188e.png",CINE| A ESTRENAR FHD **
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87515
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/0b9d9077c1a3b6d82312a7fa6903fbae.gif",CINE| ACTION MAX FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87516
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif",CINE| AMC HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87518
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/9055cd1f7224fb85a4dd9d6ec901acca.gif",CINE| CINE MEXICANO HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87526
+#EXTINF:-1 group-title="TV | PPV CINEMA" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif",CINE| CINEBOX 10 HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87675
+#EXTINF:-1 group-title="TV | PPV CINEMA" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif",CINE| CINEBOX 11 HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87676
+#EXTINF:-1 group-title="TV | PPV CINEMA" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif",CINE| CINEBOX 12 HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87677
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif",CINE| CINECANAL HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87527
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/df55ccdc1319681f5c7e25e7e47814d3.gif",CINE| CINEMA DINAMITA HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87530
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif",CINE| CINEMAX EAST FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87533
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif",CINE| CINEMAX FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87534
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/ceccd6074cd1bb3c8c1478d556ebf5b0.gif",CINE| DHE FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87538
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/e8ac13076419a09d82aecc954953f0cf.jpg",CINE| EPIX HITS HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/140931
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/4ecdd1a6fa544b2836f11d52ab4cb33a.jpg",CINE| EPIX WEST HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/140932
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif",CINE| ESTUDIO UNIVERSAL FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87540
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/bf8bd99b86aa25586bb178b3f8b17dee.gif",CINE| FILM & ARTS HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87542
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/93176d987c95ac311ec24e2e0b8a471a.gif",CINE| FILM ZONE HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87543
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/63be4c5351df87536d093c58ba07c0f7.gif",CINE| FOX  FAMILY PREMIUN HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87544
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/82b116f195510063f709ad2bc4b8898d.gif",CINE| FOX CHANNEL FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87547
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/68cc08582de9d2b35891104c6e9fa00c.gif",CINE| FOX LIFE FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87554
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/87c838e045028d2a3a0ceb8cf47fa709.gif",CINE| FOX SERIES PREMIUN FHD MEXICO
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87562
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif",CINE| FX HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87565
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif",CINE| GOLDEN EDGE HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87568
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/09ca3f25c64819f5c8517d2b495e9585.gif",CINE| GOLDEN HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87569
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/273c8e4ba33a1f6fe1596e9d90bd9815.gif",CINE| GOLDEN PLUS FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87570
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif",CINE| GOLDEN PREMIER FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87572
+#EXTINF:-1 group-title="TV | ENGLISH CINEMA (FHD)" tvg-logo="https://i.picasion.com/pic92/dd8e254f8eef2c648a8d6984065d6986.gif",CINE| HBO 2  DIRECTV
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/140935
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/ec5b90dd2d8cab2dbe29e94ebab6ff8a.gif",CINE| HBO LATINO DIRECTV
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/140934
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/4d3e9f2a4a2ac3cc8d818028f5240406.gif",CINE| LIFETIME FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87524
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/640740c48939f2a31562e1ac8df21e5f.gif",CINE| MAX PRIME FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87595
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/eba534f21c1c1dbf748f8fcc70b73fff.gif",CINE| MOREMAX FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87598
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/2eab6161122d4d9b86ca2a8fe1623a28.gif",CINE| MOVIEMAX FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87599
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/275e93079f6d00b048a635a876e083a3.gif",CINE| OUTERMAX FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87603
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/ec8275aff4ab2dbb94decaa7444b606b.gif",CINE| SHOWTIME BEYOND FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87607
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/4d5a76ac8874e24d71e24ec09d6cb03e.gif",CINE| SHOWTIME EAST FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87608
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/05e7442376fdb005894600274d863e0f.gif",CINE| SHOWTIME EXTREME LATINO HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87609
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/8e6fc4a9d6d9ef9ea06154a382cca03e.gif",CINE| SHOWTIME HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87610
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/8e6fc4a9d6d9ef9ea06154a382cca03e.gif",CINE| SHOWTIME LATINO HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87611
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://playhispano.org:25461/images/9ae2767f15b15da469c307585dd350c0.png",CINE| SONY HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87614
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/22b8038bab5b7d4d3349029271c37adf.gif",CINE| STARZ EAST FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87621
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/690a5a52dec350cc72069e56d843e5c8.gif",CINE| STARZ EDGE LATINO HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87623
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/a8f01bb1058365e9cfcdf92f5dddfb96.gif",CINE| STARZ ENCORE  ACTION HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87624
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/6f3c3d0cd5858d86eddb0fc95d85639d.gif",CINE| STARZ ENCORE EN ESPANOL  HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87632
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/b9448deea9f9ffa3ae82b0b5beacf3fd.gif",CINE| STARZ ENCORE FAMILY HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87626
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/fc75fb6628f5cc4ebcad0fce151dd0b6.gif",CINE| STARZ ENCORE HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87627
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif",CINE| STARZ ENCORE WESTERNS HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87628
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif",CINE| STARZ FAMLY HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87629
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/22b8038bab5b7d4d3349029271c37adf.gif",CINE| STARZ LATINO HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87631
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://playhispano.org:25461/images/d9a1c9659be744ce5cbf39c1afc9f9bf.png",CINE| TAQUILLA 4
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/121843
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif",CINE| TNT  FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87639
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/ba7d6233f2ad692eaa350936a48e3f61.gif",CINE| UNIVERSAL CHANNEL FHD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87643
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif",CINE| WARNER FHD MEXICO
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/87645
+#EXTINF:-1 group-title="TV | Cultura DOCUBOX (FHD)" tvg-logo="http://iptvglobal.site:25461/images/de1d2bb0885b5ce35e1002d58113fd67.png",CINEBOX: WAR
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/129806
+#EXTINF:-1 group-title="TV | MEXICO (FHD,HD,SD)" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif",CINECANAL
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86973
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://playhispano.org:8080/images/87ec58be18edd7d92a2564cb41bddcd6.jpg",Cinelatino
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90172
+#EXTINF:-1 group-title="TV | 24/7 CINEMAS (FHD)" tvg-logo="http://playhispano.org:25461/images/cc4ab20cd78ec4ecac3f112b47dc9253.jpg",CINEMA NETFLIX 24-7
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/176745
+#EXTINF:-1 group-title="TV | MEXICO (FHD,HD,SD)" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif",CINEMAX
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86974
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif",HD | Cinemax
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90204
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif",HD | Discovery H&H
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88236
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/bd090c4af173f000dd3ba568296e20ff.gif",HD | E!
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88237
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="http://playhispano.org:8080/images/2b95d1f09b8b66c5c43622a4d9ec9a04.jpg",HD | FOX HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88238
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/bd05a3cb969581faac6121dea1dabb95.gif",HD | Investigation Discovery
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88240
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/f4aa50f77d1cdb4f64610be0add430c4.gif",HD | SONY
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88241
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/a0c0a7c70041d23cbed26c0912180872.gif",HD | Star Life HD
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88239
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif",HDMX | Cinecanal
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90203
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif",HDMX | COMEDY CENTRAL
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88208
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif",HDMX | DE PELICULA
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90166
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/f9a762a838c3f666fc2b712841fbf614.gif",HDMX | Distrito Comedia
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88212
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="http://playhispano.org:8080/images/2b95d1f09b8b66c5c43622a4d9ec9a04.jpg",HDMX | FOX
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88232
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif",HDMX | GOLDEN EDGE
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90167
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://playhispano.org:25461/images/20590cac6bdbb1d87c1d1587da998b23.jpg",HDMX | HBO
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90199
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://playhispano.org:8080/images/675664b597f318f30d66c8d8834ea421.jpg",HDMX | HBO 2
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/90200
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/dc44354bdf1334979415b4d99fa33f2d.gif",HDMX | PARAMOUNT
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88209
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif",HDMX | Space
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88233
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/208467cc49f8004680d50c8c2f13886d.gif",HDMX | TLC
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88242
+#EXTINF:-1 group-title="TV | LATINO ENTRETENIMIENTO (HD)" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif",HDMX | Warner
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/88243
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://144.217.80.14/cine/hbo.jpeg",HQ | HBO
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170737
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/a7f9c898c812805f26c4ea1e490201da.jpeg",HQ | HBO 2
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170738
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg",HQ | HBO Mundi
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170739
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://144.217.80.14/cine/hboplus.jpeg",HQ | HBO PLUS
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170740
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpeg",HQ | HBO POP
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170741
+#EXTINF:-1 group-title="TV | Documentales (HD)" tvg-logo="http://iptvglobal.site:25461/images/16e197121c1752d4f42e8999863104ce.jpg",HQ | History
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170743
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/33561003f44d374c719506bef4faeba4.jpg",HQ | Sony
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170744
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/ff2364a0be3d20e46cc69efb36afe9a5.jpg",HQ | Space
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170745
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/a8754f6507cc84e3122cf46c87aee217.jpg",HQ | Studio Universal
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170747
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/05fce68836347ec77b6ce7f4c3367a36.jpg",HQ | TNT
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170748
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.jpg",HQ | Universal
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170749
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/b6bb43df4525b928a105fb5741bddbea.jpg",HQ |A&E
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170750
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://iptvglobal.site:25461/images/3d85a8c42a57d5fc2496061270e2352d.jpg",HQ |HBO Xtreme
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/170742
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/5bf2870126b6b8b50b709199fe1cf7a4.gif",IZMMX | Universal Cinema
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/118261
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif",LATINO| FX PREMIUN FHD(DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86856
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif",LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86858
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif",LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86861
+#EXTINF:-1 group-title="TV | Documentales (HD)" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif",LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86844
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/c625b3229148e396fb831025874dc8ea.gif",LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86864
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="http://playhispano.org:25461/images/95aa0f4e03c653764a9cbda00d2be5cb.png",LATINO| SPACE CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/124422
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif",LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86868
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif",LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86866
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif",LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86867
+#EXTINF:-1 group-title="TV | CINE LATINO  (HD)" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif",LATINO| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/86870
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",406 Stingray Classic Rock (1080p)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/91342
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",407 Stingray Rock Alternative (1080p)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/91343
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",408 Stingray Pop Adult (1080p)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/91344
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",413 Stingray Today's Latin Pop (1080p)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/91349
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/592be904c6c177cf68faf292edcf69cd.jpg",88 Stereo . .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152339
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/61f0682ee26999033b5b010e9bce4501.jpg",9XM .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152337
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/ce021c3ffddd66c38db8d7ba0c7383ee.png",Galáctica TV (Peru) . .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152387
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/5920241d4904ce28b977800ccad2bfcb.png",M2 (540p)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152431
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/d4147b0d254dd73a1d1509a33a49ccc5.png",Mad Greekζ (240p) [Not 24/7]
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/91481
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/f2f1c32b803a9f58558f717e3c2ca813.png",Magic TV (360p)
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/91482
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Holiday Hits .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152553
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/c21babeb2ac8d8c8407298d83d2e7c1b.png",Stingray Karaoke .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152555
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/fb7409a33ca0a3a4550a8e3e26ea0abd.png",Stingray Naturescape .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152556
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/ead68d7b90e0a2646ec6aea1d40bffc0.png",STIRR Classica .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152558
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/d72992dce6e8cf6aad475f2c256a0248.png",STIRR Stingray Rock Alternative .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152559
+#EXTINF:-1 group-title="TV | MUSICA" tvg-logo="http://iptvglobal.site:25461/images/b92902d98b7ebe2af58fe1ac90c8005e.png",STIRR Stingray Urban Beat .
+http://46.166.171.183:8080/flowtvhd/JbCvBidBDt/152561
