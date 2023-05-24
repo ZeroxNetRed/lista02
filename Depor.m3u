@@ -1,10 +1,31 @@
-#EXTINF:-1 ,Gol Peru
+
+#EXTINF:-1 group-title="FUTBOL PERUANO" tvg-logo="http://tv.streamid.tv:8080/images/69518aa984efadd850a36b2c5fc0eeec.png",PERU ! GOL PERU HD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/4139.ts
+#EXTINF:-1 group-title="FUTBOL PERUANO" tvg-logo="http://tv.streamid.tv:8080/images/69518aa984efadd850a36b2c5fc0eeec.png",PERU ! GOL PERU HD (LT)
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/4155.ts
+#EXTINF:-1 group-title="FUTBOL PERUANO" tvg-logo="http://tv.streamid.ga:8080/images/0bc8e0fd604a166d9bddaefbb72c2e41.png",PERU ! GOL TV (LT)
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/4156.ts
+#EXTINF:-1 group-title="FUTBOL PERUANO" tvg-logo="http://tv.streamid.ga:8080/images/0bc8e0fd604a166d9bddaefbb72c2e41.png",PERU ! GOL TV PERU (LT)
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/4141.ts
+#EXTINF:-1 group-title="FUTBOL PERUANO" tvg-logo="http://tv.streamid.tv:8080/images/780ef01aad18a5dc0901e5ed4c7d99d0.png",PERU | LIGA 1
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/138393.ts
+#EXTINF:-1 group-title="FUTBOL PERUANO" tvg-logo="http://tv.streamid.tv:8080/images/780ef01aad18a5dc0901e5ed4c7d99d0.png",PERU | LIGA 1 MAX
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/138394.ts#EXTINF:-1 ,Gol Peru
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/816.ts
 #EXTINF:-1 ,Movistar Deportes
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/817.ts
-
+#EXTINF:-1 group-title="PERU" tvg-logo="http://tv.streamid.tv:8080/images/ad30e19ede0222be9aff333a4e642db0.png",PERU| CANAL N HD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/58736.ts
+#EXTINF:-1 group-title="PERU" tvg-logo="http://tv.streamid.ga:8080/images/3599d812c2e593dc916edc197673115b.png",PERU| DIRECTV SPORTS FHD*
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/58733.ts
+#EXTINF:-1 group-title="PERU" tvg-logo="http://tv.streamid.ga:8080/images/09c619b963604f6731e4028dfa882ae6.png",PERU| EXITOSA HD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/58735.ts
+#EXTINF:-1 group-title="PERU" tvg-logo="http://tv.streamid.ga:8080/images/69518aa984efadd850a36b2c5fc0eeec.png",PERU| GOL PERU
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/58728.ts
+#EXTINF:-1 group-title="PERU" tvg-logo="http://tv.streamid.tv:8080/images/69518aa984efadd850a36b2c5fc0eeec.png",PERU| GOLTV PERU HD*
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/58730.ts
 #EXTINF:-1 ,Gol Peru
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/816.ts
