@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="Lista 13" tvg-logo="https://i.imgur.com/PYZtn6g.jpeg",Liga 1 Max (Peru)
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8zOxI0R3fsoy0c0DODycy_/m3u8
+#EXTINF:-1 group-title="Lista 13" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png",Movistar Deportes (Peru)
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-ZJp3F9rn34dt7k_TP6iEa/m3u8
 #EXTINF:-1 ,Movistar Deportes
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/817.ts
