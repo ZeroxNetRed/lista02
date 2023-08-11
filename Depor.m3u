@@ -4,6 +4,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/816.ts
 #EXTINF:-1 ,Movistar Deportes
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/817.ts
+#EXTINF:-1 ,LIGA 1
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/122388
+#EXTINF:-1 ,LIGA 1 MAX HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/122387
 #EXTINF:-1 ,Barca Tv
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/827.ts
