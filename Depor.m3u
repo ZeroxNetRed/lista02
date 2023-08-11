@@ -8,6 +8,30 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/817.ts
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/122388
 #EXTINF:-1 ,LIGA 1 MAX HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/122387
+#EXTINF:-1 ,Espn 1
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
+#EXTINF:-1 ,Espn 1 MX
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/780.ts
+#EXTINF:-1 ,Espn 2
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
+#EXTINF:-1 ,Espn 2 MX
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/796.ts
+#EXTINF:-1 ,Espn 3
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
+#EXTINF:-1 ,Espn 3 MX
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/797.ts
+#EXTINF:-1 ,Espn Brasil
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/809.ts
+#EXTINF:-1 ,Espn Premium
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
 #EXTINF:-1 ,Barca Tv
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/827.ts
@@ -47,30 +71,6 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/793.ts
 #EXTINF:-1 ,ECDF
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/804.ts
-#EXTINF:-1 ,Espn 1
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
-#EXTINF:-1 ,Espn 1 MX
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/780.ts
-#EXTINF:-1 ,Espn 2
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
-#EXTINF:-1 ,Espn 2 MX
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/796.ts
-#EXTINF:-1 ,Espn 3
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
-#EXTINF:-1 ,Espn 3 MX
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/797.ts
-#EXTINF:-1 ,Espn Brasil
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/809.ts
-#EXTINF:-1 ,Espn Premium
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
 #EXTINF:-1 ,Eurosports 1
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/825.ts
