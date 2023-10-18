@@ -1,40 +1,63 @@
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,PE : IPE TV
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/565.ts
-#EXTINF:-1 group-title="CINEMA",HBO Family
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/269
-#EXTINF:-1 group-title="CINEMA",HBO Family hd
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
-#EXTINF:-1 group-title="INFANTILES",Teen Nick
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4300
-#EXTINF:-1 group-title="INFANTILES",Baby First
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4333
-#EXTINF:-1 group-title="INFANTILES",Baby TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/158
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/wvc78FDr/CARTOON.jpg",Cartoon Network
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
-#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/216
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/hP71bqcv/BOOMERANG.jpg",Cartoonito
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/10
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/vmn4XGTb/DISCOVERY-KIDS.jpg",DISCOVERY KIDS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
-#EXTINF:-1 group-title="INFANTILES",Discovery Kids HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/223
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/tRkYBSqZ/DISNEY-CHANNEL.jpg",Disney Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/14
-#EXTINF:-1 group-title="INFANTILES",Disney HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/fWKDPNPx/DISNEY-JR.jpg",Disney Jr
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
-#EXTINF:-1 group-title="INFANTILES",ETC TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/202
-#EXTINF:-1 group-title="INFANTILES",Nickelodeon
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/272
-#EXTINF:-1 group-title="INFANTILES",Tooncast
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/195
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",I | Tooncast HQ
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154094
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",I | Tooncast
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10976
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/TeenNick.us.png",I | TeenNick FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154087
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/TeenNick.us.png",I | TeenNick
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10977
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/06/LOGO-ON.png",I | Once Niños
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148726
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/za/NickTOONS.za.png",I | Nicktoons HQ
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154092
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/za/NickTOONS.za.png",I | Nicktoons
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10974
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",I | Nickelodeon HD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10982
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",I | Nickelodeon FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154090
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",I | Nickelodeon
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10973
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png",I | Disney Jr HD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/28151
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png",I | Disney Jr FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154083
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png",I | Disney Jr
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10972
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png",I | Disney Channel HD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/87108
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png",I | Disney Channel FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148728
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png",I | Disney Channel
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10971
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="http://iptv.yelitv.com:8080/images/e8b794dfa8082694fccce018bc494c75.png",I | Discovery Kids HD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154081
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="http://iptv.yelitv.com:8080/images/e8b794dfa8082694fccce018bc494c75.png",I | Discovery Kids FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154082
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="http://iptv.yelitv.com:8080/images/e8b794dfa8082694fccce018bc494c75.png",I | Discovery Kids
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10966
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="http://ceoapps.org/logos/cartoonito.png",I | Cartoonito Boomerang FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154079
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="http://ceoapps.org/logos/cartoonito.png",I | Cartoonito | Boomerang HD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10981
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="http://ceoapps.org/logos/cartoonito.png",I | Cartoonito | Boomerang
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10970
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png",I | Cartoon Network HD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10980
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png",I | Cartoon Network FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154080
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png",I | Cartoon Network
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10969
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/es/BabyTV.es.png",I | Baby TV HQ
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154078
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/es/BabyTV.es.png",I | Baby TV
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10978
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png",I | Baby First HQ
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10984
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png",I | Baby First FHD
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154077
+#EXTINF:-1 group-title="TV | Infantil" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png",I | Baby First
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154076
 
 
 
